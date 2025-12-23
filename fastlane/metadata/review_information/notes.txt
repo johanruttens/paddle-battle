@@ -1,0 +1,19 @@
+Paddle Battle is a single-player arcade game that does not require login or account creation.
+
+To test the game:
+1. Launch the app - you will see the main menu
+2. Tap "PLAY" to start Level 1
+3. Swipe left/right to control the bottom paddle
+4. Score points by getting the ball past the AI paddle at the top
+5. First to reach the target score wins the level
+
+Key features to review:
+- Level progression (100 levels across 5 tiers)
+- Difficulty selection (Easy/Medium/Hard on main menu)
+- Statistics tracking (tap "STATISTICS" on main menu)
+- Settings (tap "SETTINGS" to adjust sound/haptics)
+- Level select (tap "LEVEL SELECT" to replay unlocked levels)
+
+No in-app purchases or subscriptions.
+No user accounts or login required.
+No network connectivity required - fully offline game.

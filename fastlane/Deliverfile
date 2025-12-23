@@ -1,0 +1,25 @@
+# Deliverfile for PaddleBattle
+
+# App identifier
+app_identifier "com.paddlebattle.app"
+
+# Automatically submit for review after upload
+submit_for_review false
+
+# Skip uploading screenshots (upload manually first time)
+skip_screenshots false
+
+# Skip uploading metadata
+skip_metadata false
+
+# Skip binary upload (handle separately)
+skip_binary_upload true
+
+# Price tier (0 = Free)
+price_tier 0
+
+# Automatic release after approval
+automatic_release false
+
+# Use App Store Connect API key (recommended)
+# api_key_path "fastlane/api_key.json"

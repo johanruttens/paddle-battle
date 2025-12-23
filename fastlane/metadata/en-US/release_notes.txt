@@ -1,0 +1,11 @@
+Welcome to Paddle Battle!
+
+This is our initial release featuring:
+● 100 challenging levels across 5 tiers
+● 4 epic boss battles
+● 3 difficulty modes
+● Smooth 60fps gameplay
+● Immersive sound effects and haptic feedback
+● Progress tracking and statistics
+
+Good luck on your journey to become the paddle champion!

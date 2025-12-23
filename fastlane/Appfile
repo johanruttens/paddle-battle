@@ -1,0 +1,4 @@
+app_identifier("com.paddlebattle.app")
+apple_id("YOUR_APPLE_ID@example.com") # Your Apple ID email
+team_id("YOUR_TEAM_ID") # Developer Portal Team ID
+itc_team_id("YOUR_ITC_TEAM_ID") # App Store Connect Team ID
