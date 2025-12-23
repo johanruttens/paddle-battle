@@ -241,7 +241,7 @@ export const useGameStore = create<GameStore>()((set, get) => ({
         currentLevel: progress.currentLevel,
         highestLevelUnlocked: progress.highestLevelUnlocked,
         levelStars: progress.levelStars,
-        difficulty: progress.difficulty || settings.difficulty,
+        difficulty: settings.difficulty,
         musicVolume: settings.musicVolume,
         sfxVolume: settings.sfxVolume,
         vibrationEnabled: settings.vibrationEnabled,

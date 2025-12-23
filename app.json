@@ -22,8 +22,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "YOUR_EAS_PROJECT_ID"
+        "projectId": "04b4b450-50d6-4419-83b8-d736af98d8f3"
       }
-    }
+    },
+    "owner": "johanruttens"
   }
 }

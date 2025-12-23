@@ -13,7 +13,6 @@ export interface GameProgress {
   currentLevel: number;
   highestLevelUnlocked: number;
   levelStars: Record<number, number>; // level -> stars (1-3)
-  difficulty: Difficulty;
 }
 
 // Player stats
@@ -52,7 +51,6 @@ const DEFAULT_PROGRESS: GameProgress = {
   currentLevel: 1,
   highestLevelUnlocked: 1,
   levelStars: {},
-  difficulty: 'medium',
 };
 
 const DEFAULT_STATS: PlayerStats = {
