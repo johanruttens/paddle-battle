@@ -1,3 +1,0 @@
---- xcodebuild: WARNING: Using the first of multiple matching destinations:
-{ platform:iOS Simulator, arch:arm64, id:83D50211-91F2-4231-908A-E270243E46C8, OS:17.5, name:iPhone SE (3rd generation) }
-{ platform:iOS Simulator, arch:x86_64, id:83D50211-91F2-4231-908A-E270243E46C8, OS:17.5, name:iPhone SE (3rd generation) }
